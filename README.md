@@ -184,7 +184,7 @@ Running the Project
 
 Clone this repository
 
-bash   git clone https://github.com/your-username/sentiment-topic-modeling-playstore.git
+bash   git clone https://github.com/amnanawaz28/Sentiment-Analysis-Topic-Modeling-of-Google-Play-Store-Reviews
    cd sentiment-topic-modeling-playstore
 
 Open the notebook
@@ -214,7 +214,7 @@ Shows dominant terms: easy, love, great, use, app, simple, work, amazing
 Beta Weight Chart (Negative Reviews — Topic: Upload Issues)
 Top keywords by probability: upload, still, trying, slow, download, fail, stuck, work, keep, error
 Average Topic Weights
-SentimentAll TopicsEqual Distribution?Negative6 topics~16.7% each ✅Positive6 topics~16.7% each ✅
+SentimentAll Topics Equal Distribution? Negative6 topics~16.7% each ✅ Positive6 topics~16.7% each ✅
 
 📚 References & Further Reading
 
